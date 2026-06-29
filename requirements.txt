@@ -1,0 +1,15 @@
+numpy
+
+pandas
+
+torch
+
+torchvision
+
+opencv-python
+
+scikit-learn
+
+torchmetrics
+
+kagglehub
